@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string-array name="bike">
+        <item>H2r</item>
+        <item>Zx10r</item>
+        <item>Z900</item>
+        <item>GT650</item>
+        <item>Sp125</item>
+
+    </string-array>
+</resources>
